@@ -7,6 +7,5 @@ import (
 )
 
 func main() {
-	// Get a greeting message and print it.
-	fmt.Println(greetings.Hello("Gladys"))
+	fmt.Println(greetings.Hello("Gladus"))
 }
